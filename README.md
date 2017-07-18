@@ -1,2 +1,3 @@
-﻿# school-projects
+# school-projects
 
+Physics Programming Projects
